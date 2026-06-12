@@ -2,8 +2,8 @@
 <html lang="ja">
   <head></head>
   <body>
-    <img width="880" height="434" src="images/スクリーンショット 2026-06-12 085531" />
-    <img width="890" height="497" src="images/スクリーンショット 2026-06-12 085545" />
+    <img width="880" height="434" src="images/スクリーンショット 2026-06-12 085531.png" />
+    <img width="890" height="497" src="images/スクリーンショット 2026-06-12 085545.png" />
     <img width="886" height="429" alt="スクリーンショット 2026-06-12 085558" src="https://github.com/user-attachments/assets/ca2ad9c4-9dfe-407f-9d75-3d3880e0df9d" />
     <img width="882" height="472" alt="スクリーンショット 2026-06-12 085611" src="https://github.com/user-attachments/assets/55f7061e-4bb9-4a53-a536-ab245eab59b4" />
     <img width="884" height="471" alt="スクリーンショット 2026-06-12 085627" src="https://github.com/user-attachments/assets/b396333b-54b9-4362-9b2e-a22fe44676a3" />
